@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gangadhar
 - 👀 I’m Fascinated in Tech
 - 🌱 I’m currently learning Cloud, MLOps
-- 💞️ I’m looking to collaborate on Data Engineering
+- 💞️ I’m looking to collaborate on Machine Learning and Data Engineering
 - 📫 reach me gangadhar04051996@gmail.com
 
 <!---
