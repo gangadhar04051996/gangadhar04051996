@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m Gangadhar<br>☁️I am currently a AWS Data Engineer and Analyst <br>👀I am looking to collaborate on the Timeseries Application Development<br>🗣️I am currently learning AI/ML.<br>🐋I like to bind everything I make into a Docker. <br>👨🏻‍🎓Love to learn about DSA and System Design. <br>
+👋 Hi, I’m Gangadhar<br> 
+Get in touch with me 👉 [🔗](https://pfolio-grinf.web.app/) 👈
 
 
 ## 🌐 Socials:
