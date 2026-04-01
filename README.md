@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=header&text=&fontSize=0" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:667EEA&height=120&section=header&text=&fontSize=0" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=Hey%2C+I'm+Gangadhar+%F0%9F%91%8B;Data+Engineer+%2F+App+Developer" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=Hey%2C+I'm+Gangadhar+%F0%9F%91%8B;Data+Engineer+%2F+App+Developer" />
@@ -12,7 +11,7 @@
 
 <p>
   <a href="https://pfolio-grinf.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-764BA2?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/balagangadharreddy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -115,19 +114,6 @@ gangadhar:
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/gangadhar04051996">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangadhar04051996&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
-</a>
-
-</div>
-
-<br/>
-
-
 ## 💭 Dev Quote
 
 <div align="center">
@@ -136,11 +122,10 @@ gangadhar:
 
 </div>
 
-<br/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:667EEA&height=80&section=footer" />
 
 *Building pipelines that scale · Let's connect on [LinkedIn](https://linkedin.com/in/balagangadharreddy/)*
 
